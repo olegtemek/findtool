@@ -6,18 +6,18 @@
           <h3>Данный сайт был разработан</h3>
           <p>
             Придатко Дмитрием -
-            <a href="https://t.me/zyxron">https://t.me/zyxron</a>
+            <a target="_blank" href="https://t.me/zyxron">https://t.me/zyxron</a>
           </p>
           <p>
             Алексеенко Олегом -
-            <a href="https://t.me/olegtemek">https://t.me/olegtemek</a>
+            <a target="_blank" href="https://t.me/olegtemek">https://t.me/olegtemek</a>
           </p>
         </div>
         <div class="footer__right">
           <p>
             По всем вопросам, предложениям, замечаниям и т.д. можете обращаться
-            по номеру <a href="tel:+77712085150">+7-771-208-51-50</a> или
-            <a href="https://t.me/zyxron">https://t.me/zyxron</a>
+            по номеру <a target="_blank" href="tel:+77712085150">+7-771-208-51-50</a> или
+            <a target="_blank" href="https://t.me/zyxron">https://t.me/zyxron</a>
           </p>
         </div>
       </div>

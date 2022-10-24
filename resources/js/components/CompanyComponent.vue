@@ -6,7 +6,7 @@
         item.number
       }}</a>
     </div>
-    <a :href="item.portfolio" class="company__item-portfolio">Портфолио</a>
+    <a target="_blank" :href="item.portfolio" class="company__item-portfolio">Портфолио</a>
     <div class="company__item-text">
       <h3>Что мы предлагаем</h3>
       <p>
@@ -26,7 +26,7 @@
       </p>
     </div>
 
-    <a :href="item.link" class="company__item-link">Связаться</a>
+    <a target="_blank" :href="item.link" class="company__item-link">Связаться</a>
   </div>
 </template>
 
