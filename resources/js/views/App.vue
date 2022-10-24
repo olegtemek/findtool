@@ -6,7 +6,7 @@
         Это первая функциональная версия сайта. Дизайн и функции будут
         дорабатываться <br />
         Для идей и пожеланий:
-        <a href="https://t.me/zyxron">https://t.me/zyxron</a>
+        <a target="_blank" href="https://t.me/zyxron">https://t.me/zyxron</a>
       </p>
       <router-view :key="$route.fullPath"></router-view>
     </main>
